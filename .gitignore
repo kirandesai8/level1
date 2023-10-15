@@ -1,0 +1,6 @@
+#Exclude all files which are mentioned  below
+
+
+*.class
+*.settings
+*.project
